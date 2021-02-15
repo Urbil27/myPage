@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.description{
+    width:30vw;
+}
+.top-absolute{
+    position:absolute;
+    top: 0px;
+    width:100%;
+}
+header{
+    height: 355px;
+}
+.headerimg{
+    background-image: url("../img/fotoheader.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0px ;
+}
